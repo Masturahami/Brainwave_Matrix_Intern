@@ -1,7 +1,7 @@
 # Brainwave_Matrix_Intern
 Hi, I'm Masturah and this is one of my little corner of Cyber-Techieness
 
-This is my ✨Brain_Matrix_Intern✨ repository. The cozy spot where I'm keeping all the exciting and brain-sparking tasks I'll be working on during my internship with Brainwave Matrix.
+This is my ✨Brainwave_Matrix_Intern✨ repository. The cozy spot where I'm keeping all the exciting and brain-sparking tasks I'll be working on during my internship with Brainwave Matrix.
 
 I'm super hyped about the cybersecurity projects, building cool scripts, and learning as I go. You're welcome to explore... but dont snoop *too* hard, hehe💜
 
