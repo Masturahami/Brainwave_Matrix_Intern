@@ -16,8 +16,19 @@ Tech Tools
 -Requests library (for link checking)
 -Terminal Magic
 
-# What's Next?💜
-Soon, I'll be adding Task 2 in its own cute folder. Stay tuned!
+## Task 2: CyberPaw Password Strength Checker 💜
+
+**Folder**: CyberPaw_Strength_Checker/
+**Script**: 'cyberpaw_password_checker.py'
+
+A Python script that checks how strong (or weak) your password is. It’s simple, direct, and a reminder to ditch password123 for something a little more... cyberpaw-approved.
+
+Tech Tools:
+- Python  
+- Regex (`re`)  
+- Colorama (`Fore`, `Style`)  
+- hashlib (`sha256`)
+
 
 
 Made with a lot of learning & a lil' bit of magic
