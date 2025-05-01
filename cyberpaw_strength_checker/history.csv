@@ -1,0 +1,6 @@
+timestamp,password,score,remarks
+2025-04-30 22:12:32,*************,6,32mGreat length! | 32mContains uppercase letters. | 32mContains numbers. | 32mContains special characters. | 32mHigh entropy (85 bits): Strong password.
+2025-04-30 22:12:56,********,2,"33mGood length, but could be stronger. | 33mConsider adding uppercase letters. | 33mConsider adding numbers. | 33mTry using special characters for better strength. | 31mLow entropy (38 bits): Easy to guess."
+2025-04-30 22:13:32,,0,31mPassword too short! | 33mConsider adding uppercase letters. | 33mConsider adding numbers. | 33mTry using special characters for better strength. | 31mLow entropy (0 bits): Easy to guess.
+2025-04-30 22:18:40,********,2,"33mGood length, but could be stronger. | 33mConsider adding uppercase letters. | 33mConsider adding numbers. | 33mTry using special characters for better strength. | 31mLow entropy (38 bits): Easy to guess."
+2025-04-30 22:19:35,*************,6,32mGreat length! | 32mContains uppercase letters. | 32mContains numbers. | 32mContains special characters. | 32mHigh entropy (85 bits): Strong password.
