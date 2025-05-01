@@ -28,6 +28,13 @@ Tech Tools:
 - Regex (`re`)  
 - Colorama (`Fore`, `Style`)  
 - hashlib (`sha256`)
+- getpass
+- os
+- csv
+
+
+
+
 
 
 
